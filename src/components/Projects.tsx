@@ -7,9 +7,9 @@ export default function Projects() {
     <section id="projects" className="relative px-6 md:px-12 py-32 md:py-40">
       <div className="max-w-5xl">
         <Reveal>
-          <p className="font-mono text-xs text-[#22d3ee] mb-4">featured work</p>
+          <p className="font-mono text-xs text-[#22d3ee] mb-4">Featured Work</p>
           <h2 className="font-display text-4xl md:text-6xl font-semibold mb-20 md:mb-28">
-            Selected projects
+            Selected Projects
           </h2>
         </Reveal>
 
