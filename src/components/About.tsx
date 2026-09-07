@@ -13,7 +13,7 @@ export default function About() {
 
         <div>
           <Reveal>
-            <p className="font-mono text-xs text-accent mb-4">about</p>
+            <p className="font-mono text-xs text-accent mb-4">About</p>
             <p className="text-2xl md:text-3xl leading-snug text-text max-w-2xl font-display font-medium">
               {profile.summary}
             </p>

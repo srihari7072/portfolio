@@ -10,9 +10,9 @@ export default function Skills() {
     <section id="skills" className="relative py-32 md:py-40">
       <div className="max-w-5xl px-6 md:px-12">
         <Reveal>
-          <p className="font-mono text-xs text-[#e85da0] mb-4">capabilities</p>
+          <p className="font-mono text-xs text-[#e85da0] mb-4">Capabilities</p>
           <h2 className="font-display text-4xl md:text-6xl font-semibold mb-16 md:mb-20">
-            What I work with
+            What I Work With
           </h2>
         </Reveal>
       </div>

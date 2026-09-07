@@ -62,7 +62,7 @@ export default function Preloader() {
         >
           <div className="w-64">
             <div className="flex items-baseline justify-between mb-3">
-              <span className="font-mono text-xs text-muted">initializing</span>
+              <span className="font-mono text-xs text-muted">Initializing</span>
               <span className="font-display text-4xl font-semibold tabular-nums">
                 {progress}
               </span>

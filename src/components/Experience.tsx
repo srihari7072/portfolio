@@ -7,9 +7,9 @@ export default function Experience() {
     <section id="experience" className="relative px-6 md:px-12 py-32 md:py-40">
       <div className="max-w-5xl">
         <Reveal>
-          <p className="font-mono text-xs text-accent-2 mb-4">experience</p>
+          <p className="font-mono text-xs text-accent-2 mb-4">Experience</p>
           <h2 className="font-display text-4xl md:text-6xl font-semibold mb-20 md:mb-28">
-            Where I&apos;ve worked
+            Where I&apos;ve Worked
           </h2>
         </Reveal>
 
@@ -33,7 +33,7 @@ export default function Experience() {
                   {role.role}
                 </h3>
                 {role.status === "current" && (
-                  <span className="font-mono text-[11px] text-accent-2">current</span>
+                  <span className="font-mono text-[11px] text-accent-2">Current</span>
                 )}
               </div>
               <p className="text-muted mb-1">{role.org}</p>

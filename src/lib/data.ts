@@ -11,10 +11,10 @@ export const profile = {
 };
 
 export const quickFacts = [
-  { label: "experience", value: "2+ years" },
-  { label: "current focus", value: "AI-powered analytics" },
-  { label: "core stack", value: "React · Odoo · Python" },
-  { label: "education", value: "Ramachandra College of Engineering" },
+  { label: "Experience", value: "2+ years" },
+  { label: "Current Focus", value: "AI-powered analytics" },
+  { label: "Core Stack", value: "React · Odoo · Python" },
+  { label: "Education", value: "Ramachandra College of Engineering" },
 ];
 
 export const skillGroups = [
@@ -36,7 +36,7 @@ export const skillGroups = [
     ],
   },
   {
-    group: "Backend & data",
+    group: "Backend & Data",
     items: [
       { name: "PostgreSQL", note: "relational design & queries" },
       { name: "ClickHouse", note: "real-time analytical queries" },

@@ -16,7 +16,7 @@ export default function Hero() {
       <div className="relative z-10 w-full px-6 md:px-12 pb-20 pt-40">
         <div className="max-w-3xl">
           <p className="font-mono text-xs text-accent tracking-tight mb-4">
-            {profile.location} <span className="text-muted">· available for work</span>
+            {profile.location} <span className="text-muted">· Available For Work</span>
           </p>
 
           <h1 className="font-display font-semibold text-[13vw] leading-[0.95] sm:text-6xl md:text-7xl text-text">
